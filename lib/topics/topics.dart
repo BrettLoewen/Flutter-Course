@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:fluttercourse/services/services.dart';
 import 'package:fluttercourse/shared/shared.dart';
 import 'package:fluttercourse/topics/topic_item.dart';

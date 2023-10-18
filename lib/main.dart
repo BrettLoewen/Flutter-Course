@@ -5,7 +5,6 @@ import 'package:fluttercourse/routes.dart';
 import 'package:fluttercourse/theme.dart';
 import 'package:fluttercourse/services/services.dart';
 import 'package:fluttercourse/shared/shared.dart';
-import 'package:fluttercourse/theme.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
